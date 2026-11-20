@@ -1,0 +1,11 @@
+Record ID,First Name,Last Name,Email,Phone Number,Company name,Lifecycle Stage,Create Date
+1001,Ana,Souza,ana.souza@example.com,+55 21 99999-0001,Northwind Foods Inc,customer,2024-03-02
+1002,Bruno,Lima,bruno@example.com,+55 21 99999-0002,Northwind Foods,lead,2024-03-05
+1003,Carla,Dias,CARLA@EXAMPLE.COM,(212) 555-0103,Blue Harbor LLC,customer,03/04/2024
+1004,Carla,Dias,carla@example.com ,2125550103,Blue Harbor,customer,2024-03-04
+1005,Diego,Rocha,diego.rocha@example,+55 11 98888-0005,Acme Tax Ltd,lead,2024-04-10
+1006,Elisa,Prado,,+55 11 98888-0006,Acme Tax,prospect,2024-04-11
+1007,,,frank@example.com,123,Green Leaf Co,customer,2031-01-01
+1008,Gina,Alves,gina@example.com,+55 31 97777-0008,Green Leaf,customer,13/05/2024
+1008,Hugo,Reis,hugo@example.com,+55 31 97777-0009,Green Leaf,subscriber,05/13/2024
+,Iara,Melo,iara@example.com,+1 415 555 0110,Pier 9 Payroll,customer,not a date
