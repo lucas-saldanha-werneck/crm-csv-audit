@@ -8,7 +8,7 @@ I wrote it after reading a job post about moving a CRM into an internal Postgres
 
 ## Run it
 
-Python 3.9 or newer. No packages to install.
+Python 3.12 or newer (older versions were not tried). No packages to install.
 
 ```
 python3 crm_csv_audit.py sample/contacts_example.csv
